@@ -2,6 +2,7 @@
 title:  "About Minecraft"
 date:   2023-05-17 11:39:57 +0900
 categories: Minecraft
+nav_exclude: true
 ---
 
 <a href="https://github.com/DiaWiki/DiaWiki.GitHub.io/edit/main/{{ page.path }}">Request an edit on GitHub</a>
