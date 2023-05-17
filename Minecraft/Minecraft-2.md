@@ -5,6 +5,8 @@ date:   2023-05-17 11:39:57 +0900
 categories: Minecraft
 ---
 
+<a href="https://github.com/DiaWiki/DiaWiki.GitHub.io/edit/main/{{ page.path }}">Request an edit on GitHub</a>
+
 # Are you new to Minecraft and don’t know where to start?
  Don’t worry, this guide will help you survive your first day and night in this amazing sandbox game. You will learn how to gather resources, craft tools, and more. Let’s get started!
 
