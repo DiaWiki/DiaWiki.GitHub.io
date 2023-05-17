@@ -5,9 +5,7 @@ categories: Minecraft
 nav_exclude: true
 ---
 
-{% if page.previous_url %}
-[Back]({{ page.previous_url | relative_url }})
-{% endif %}
+[Back to the previous page's Index](../index.md)
 
 <a href="https://github.com/DiaWiki/DiaWiki.GitHub.io/edit/main/{{ page.path }}">Request an edit on GitHub</a>
 
