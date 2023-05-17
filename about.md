@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: /about/
+layout: page
 ---
 
 <a href="https://github.com/DiaWiki/DiaWiki.GitHub.io/edit/main/{{ page.path }}">Request an edit on GitHub</a>

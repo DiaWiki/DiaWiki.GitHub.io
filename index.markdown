@@ -8,4 +8,6 @@ title: Welcome
 
 <h1>Welcome!</h1>
 
-Please press About from the bar at the side for a description!
+[About](/about.md)
+[Topic "Minecraft"](/Minecraft.md)
+[Request an Create Pages on GitHub](/new.md)
