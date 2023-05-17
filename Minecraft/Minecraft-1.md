@@ -5,7 +5,7 @@ categories: Minecraft
 nav_exclude: true
 ---
 
-[Back to the previous page's Index](../index.md)
+[Back to the previous page's Index](../index.html)
 
 <a href="https://github.com/DiaWiki/DiaWiki.GitHub.io/edit/main/{{ page.path }}">Request an edit on GitHub</a>
 
