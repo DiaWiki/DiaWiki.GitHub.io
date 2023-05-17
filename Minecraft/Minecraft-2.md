@@ -7,7 +7,7 @@ categories: Minecraft
 
 <a href="https://github.com/DiaWiki/DiaWiki.GitHub.io/edit/main/{{ page.path }}">Request an edit on GitHub</a>
 
-# Are you new to Minecraft and don’t know where to start?
+<h1>Are you new to Minecraft and don’t know where to start?</h1>
  Don’t worry, this guide will help you survive your first day and night in this amazing sandbox game. You will learn how to gather resources, craft tools, and more. Let’s get started!
 
 (This article uses Java Edition. for step 2 in Bedrock Edition, go to Play and create a new world, rather than pressing "single-player.")

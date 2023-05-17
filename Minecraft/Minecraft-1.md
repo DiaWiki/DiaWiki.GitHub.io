@@ -7,6 +7,8 @@ categories: Minecraft
 
 <a href="https://github.com/DiaWiki/DiaWiki.GitHub.io/edit/main/{{ page.path }}">Request an edit on GitHub</a>
 
+<h1>About Minecraft</h1>
+
 hello!
 Welcome to Minecraft document in DiaWiki!
 

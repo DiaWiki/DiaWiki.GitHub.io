@@ -6,6 +6,7 @@ permalink: /about/
 
 <a href="https://github.com/DiaWiki/DiaWiki.GitHub.io/edit/main/{{ page.path }}">Request an edit on GitHub</a>
 
+<h1>About</h1>
 
 Hello!
 Welcome to DiaWiki!

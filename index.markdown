@@ -7,4 +7,6 @@ layout: home
 
 <a href="https://github.com/DiaWiki/DiaWiki.GitHub.io/edit/main/{{ page.path }}">Request an edit on GitHub</a>
 
-Hello! Please press About from the bar at the side for a description!
+<h1>Welcome!</h1>
+
+Please press About from the bar at the side for a description!
