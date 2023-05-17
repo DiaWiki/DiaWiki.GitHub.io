@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "About Minecraft"
+date:   2023-05-17 11:39:57 +0900
+categories: Minecraft
+---
+
+hello!
+Welcome to Minecraft document in DiaWiki!
+
+Minecraft is a sandbox game that allows players to freely remake the world using blocks. Developed by Markus "Notch" Persson and currently operated by Mojang Studios, part of Microsoft's Xbox Game Studios, Minecraft offers a variety of game modes and multiplayer features that allow creators and players can use their imagination in this game.
