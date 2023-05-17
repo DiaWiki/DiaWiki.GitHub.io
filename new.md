@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Request an Create Pages on GitHub
 permalink: /new/
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "About Minecraft"
 date:   2023-05-17 11:39:57 +0900
 categories: Minecraft
