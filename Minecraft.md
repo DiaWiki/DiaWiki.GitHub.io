@@ -12,5 +12,5 @@ permalink: /_posts/Minecraft/
 
 # Pages
 
-[1. About Minecraft](/_posts/Minecraft/Minecraft-1.md)
-[2. Minecraft Beginner Guide](/_posts/Minecraft/Minecraft-2.md)
+[1. About Minecraft](Minecraft-1.md)
+[2. Minecraft Beginner Guide](Minecraft-2.md)
