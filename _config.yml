@@ -21,7 +21,7 @@
 title: DiaWiki
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello! Please press About from the bar at the top for a description! 
+  Accurate and secure, request-style wiki!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
