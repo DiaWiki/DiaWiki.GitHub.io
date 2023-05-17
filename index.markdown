@@ -9,5 +9,7 @@ title: Welcome
 <h1>Welcome!</h1>
 
 [About](/about.md)
+
 [Topic "Minecraft"](/Minecraft.md)
+
 [Request an Create Pages on GitHub](/new.md)

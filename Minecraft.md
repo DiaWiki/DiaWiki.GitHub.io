@@ -8,4 +8,5 @@ layout: page
 <h1>"Minecraft" Topic Pages</h1>
 
 [About Minecraft](/Minecraft/Minecraft-1.md)
+
 [Minecraft Beginner Guide](/Minecraft/Minecraft-2.md)
